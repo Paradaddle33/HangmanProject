@@ -1,0 +1,27 @@
+{
+  "name": "hangman-project",
+  "version": "1.0.0",
+  "engine": {
+    "node": "^20.17"
+  },
+  "type": "module",
+  "main": "index.js",
+  "author": "Keith",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Keith/HangmanProject.git"
+  },
+  "description": "Update me with a description of:",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Keith/HangmanProject/issues"
+  },
+  "homepage": "https://github.com/Keith/HangmanProject#readme",
+  "dependencies": {
+    "picoprompt": "^5.0.1"
+  }
+}
