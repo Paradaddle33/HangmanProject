@@ -4,44 +4,44 @@ import wordBank from "./word-bank.js";
 // Hangman stages with markdown. This needs to show a physical body being hung.
 const hangmanStages = [
   `
-   +---+
+   #---#
        |
        |
        |
       ===`,
   `
-   +---+
+   #---#
    O   |
        |
        |
       ===`,
   `
-   +---+
+   #---#
    O   |
    |   |
        |
       ===`,
   `
-   +---+
+   #---#
    O   |
   /|   |
        |
       ===`,
   `
-   +---+
+   #---#
    O   |
   /|\\  |
        |
       ===`,
   `
-   +---+
+   #---#
    O   |
   /|\\  |
   /    |
       ===`,
   `
-   +---+
-   O   |
+   #---#
+   X   |
   /|\\  |
   / \\  |
       ===`
